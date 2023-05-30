@@ -47,7 +47,7 @@
           safety_buffer_lateral: 0.7
           safety_buffer_longitudinal: 0.0
         unknown:
-          enable: false
+          enable: true
           envelope_buffer_margin: 0.3
           safety_buffer_lateral: 0.7
           safety_buffer_longitudinal: 0.0
