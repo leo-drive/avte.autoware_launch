@@ -4,7 +4,7 @@
     use_down_sample_filter: False
 
     # voxel size for downsample filter
-    down_sample_voxel_size: 0.1
+    down_sample_voxel_size: 0.4
 
     # distance threshold for compare compare
     distance_threshold: 0.5
@@ -13,7 +13,7 @@
     publish_debug_pcd: False
 
     # use dynamic map loading
-    use_dynamic_map_loading: True
+    use_dynamic_map_loading: False
 
     # time interval to check dynamic map loading
     timer_interval_ms: 100
