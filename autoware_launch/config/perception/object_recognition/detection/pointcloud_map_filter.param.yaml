@@ -4,10 +4,10 @@
     use_down_sample_filter: False
 
     # voxel size for downsample filter
-    down_sample_voxel_size: 0.4
+    down_sample_voxel_size: 0.5
 
     # distance threshold for compare compare
-    distance_threshold: 0.5
+    distance_threshold: 0.6
 
     # publish voxelized map pointcloud for debug
     publish_debug_pcd: False
